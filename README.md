@@ -1,2 +1,2 @@
 # .github
-This is Nach Germany, Your first step towards the higher education in Germany.
+This is Nach Germany, Your first step towards higher education in Germany.
