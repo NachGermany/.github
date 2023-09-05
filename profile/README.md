@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-# NachGermany Readme
-
 ## About NachGermany
 
 Welcome to NachGermany – Your Gateway to European Education!
@@ -33,5 +29,3 @@ We believe in the power of community involvement to enhance our services. Here's
 Ever wondered what fuels our team for the day ahead? Well, it's a mix of determination and some good old breakfast favorites. While we each have our unique preferences, a common theme is a hearty breakfast to kickstart the day and fuel our passion for helping students achieve their educational goals.
 
 Thank you for choosing NachGermany as your partner in pursuing higher education in Europe. We're excited to embark on this journey with you!
-
--->
