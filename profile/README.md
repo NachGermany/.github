@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About NachGermany
 
 Welcome to NachGermany – Your Gateway to European Education!
